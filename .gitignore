@@ -1,0 +1,7 @@
+*.save
+
+*hardware-configuration.nix
+
+*lanzaboote.nix
+
+*nix/
