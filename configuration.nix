@@ -124,6 +124,7 @@
      usbutils
      udiskie
      udisks
+     vscode
   
      (pkgs.waybar.overrideAttrs (oldAttrs: {
 	mesonFlags = oldAttrs.mesonFlags ++ [ "-Dexperimental=true" ];
